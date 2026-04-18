@@ -1,4 +1,4 @@
-this is my project developed using pythn
+this is my project developed using python
 features:
 User login
 data handling 
